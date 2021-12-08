@@ -1,0 +1,111 @@
+body {
+  text-align: center;
+background-color:#330033;
+}
+.name {
+  font-family:"Josefin Sans";fantasy;
+  font-size: 100px;
+  color: #FF0000;
+}
+.button {
+  height: 100px;
+  width: 100px;
+  background-color: #663300;
+    font-family:"Josefin Sans";fantasy;
+    font-size: 90px;
+    color: #660033;
+      margin: 10px;
+
+}
+
+.button1 {
+  height: 100px;
+  width: 100px;
+  background-color: #663300;
+    font-family:"Josefin Sans";fantasy;
+    font-size: 90px;
+    color: #660033;
+      margin: 10px;
+}
+
+.button2 {
+  height: 100px;
+  width: 100px;
+  background-color: #663300;
+    font-family:"Josefin Sans";fantasy;
+    font-size: 90px;
+    color: #660033;
+      margin: 10px;
+}
+
+.button3 {
+  height: 100px;
+  width: 100px;
+  background-color: #663300;
+    font-family:"Josefin Sans";fantasy;
+    font-size: 90px;
+    color: #660033;
+      margin: 10px;
+}
+
+.button4 {
+  height: 100px;
+  width: 100px;
+  background-color: #663300;
+    font-family:"Josefin Sans";fantasy;
+    font-size: 90px;
+    color: #660033;
+      margin: 10px;
+}
+
+.button5 {
+  height: 100px;
+  width: 100px;
+  background-color: #663300;
+    font-family:"Josefin Sans";fantasy;
+    font-size: 90px;
+    color: #660033;
+      margin: 10px;
+
+}
+
+.button6 {
+  height: 100px;
+  width: 100px;
+  background-color: #663300;
+    font-family:"Josefin Sans";fantasy;
+    font-size: 90px;
+    color: #660033;
+    margin: 10px;
+}
+
+.w{
+  background-image: url('../image/crash.png');
+}
+
+.e{
+  background-image: url('../image/kick.png');
+}
+.r{
+  background-image: url('../image/snare.png');
+}
+.t{
+  background-image: url('../image/tom1.png');
+}
+.y{
+  background-image: url('../image/tom2.png');
+}
+.u{
+  background-image: url('../image/tom3.png');
+}
+.i{
+  background-image: url('../image/tom3.png');
+}
+
+
+footer{
+  margin-top: 5px;
+  font-family:"Josefin Sans";fantasy;
+  font-size: 40px;
+  color: #FFFF33;
+}
